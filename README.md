@@ -1,12 +1,12 @@
 # Fairness Tree Workshop
----
+
 ## Presenters
 - Rayid Ghani, Carnegie Mellon University
 - Lingwei Cheng, Carnegie Mellon University
 - Kit T. Rodolfa, RegLab, Stanford University
 
 ## Why this tutorial? 
----
+
 The typical process used today in eliciting fairness goals when designing ML systems is not systematic and either involves selecting an arbitrary fairness metric to achieve or in computing disparities (and auditing) across a variety of (often, all of the ones that can be computed) fairness metrics. This often results  in a system that is not designed for the use case under consideration and does not result in outcomes that are fair and equitable. [Fairness Tree (FT)](https://lw334.github.io/fairness_tree/) provides a simple framework to help stakeholders involved in design and development decisions to:
 - prioritize notions of fairness that most appropriately match the use case setting and the deployment context of the socio-technical system being developed.
 - support the collaborative and transparent process of eliciting fairness requirements 
@@ -15,11 +15,11 @@ The typical process used today in eliciting fairness goals when designing ML sys
 Participants will leave the tutorial with enhanced proficiency in eliciting, understanding, discussing, and managing conflicting fairness objectives which they can then use to design better and more equitable ML systems.
 
 ## What will we cover? 
---- 
+ 
 In this hands-on tutorial, we will start with an overview of AI fairness and the AI fairness pipeline, survey the landscape of existing AI fairness tools, and show where FT fits in. To illustrate how FT works, we will pose a hypothetical policy question where AI could be used to predict risks and allocate resources accordingly. We will walk participants through the decision points in FT, explaining relevant case studies to illustrate the nuances associated with the questions and notions of fairness. The key points for discussions are shown in the worksheets below. Participants may arrive at different fairness requirements based on their priorities, and we will show how FT can help them identify the underlying sources of conflicting priorities, which may result in different fairness needs for different stakeholder groups. The discussions will conclude with how to make sense of and operationalize these requirements.
 
 ### Pre-requisites
----
+
 - Please bring a laptop so you can interact with fairness tree
 - Caring about the world, fairness, and equity
 
