@@ -25,19 +25,24 @@ In this hands-on tutorial, we will start with an overview of AI fairness and the
 
 ### Schedule and Structure
 [Google Slides]()
+
 [Fairness Tree (FT)](https://lw334.github.io/fairness_tree/)
+
 Worksheets: 
+
 - Exercise 1: [Explore Different Fairness Perspectives](https://docs.google.com/document/d/1GpJKTEFi4Qp098djT5_RcN5UYD3AfIg9m664pO6qxjQ/edit?usp=sharing)
 - Exercise 2: [Cost & Benefit Analysis of Intervention](https://docs.google.com/document/d/1zhD6Dvkv3enQGYKQ9zspEmkDow08JCPCcaMw8C7wxlA/edit?usp=sharing)
-- Exercise 3: [Fairness Tree]()
+- Exercise 3: [Fairness Tree](https://docs.google.com/document/d/1lqd8_yvjjh6mEPakHDPjx2Jrn7wvLpLdujDizqqtM24/edit?usp=sharing)
 - Exercise 4: [Caveat on Data Quality]()
 
 1. Overall fairness and equity when building Data Science/ML systems
 2. Exploring different fairness perspectives
 3. Understanding the cost and benefits of interventions
 4. From societal goals to fairness goals to ML fairness metrics
-   - The Fairness Tree: Mapping from Societal and Fairness Goals to ML Fairness Metrics
-   - Hands-on Session: Choosing Relevant Fairness Metric(s) in Case Studies ✓
+   - Hands-on Session 1 : Discuss different fairness perspectives
+   - Hands-on Session 2: Discuss cost and benefits of intervention and false positive/negatives
+   - Hands-on Session 3: The Fairness Tre, Choosing Relevant Fairness Metric(s) in Case Studies ✓
     - Case Study 1: Deciding whether to open an investigation for a reported child maltreatment case based on predicted risk of maltreatment
     - Case Study 2: Deciding whether to grant bail based on predicted flight risk 
     - Case Study 3: Prioritizing who to provide housing rental assistence to based on predicted risk of future adverse events
+   - Hands-on Session 4: Discuss data caveats
