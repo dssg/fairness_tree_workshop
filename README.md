@@ -1,8 +1,8 @@
 # Fairness Tree Workshop
 
 ## Presenters
-- Rayid Ghani, Carnegie Mellon University
 - Lingwei Cheng, Carnegie Mellon University
+- Rayid Ghani, Carnegie Mellon University
 - Kit T. Rodolfa, RegLab, Stanford University
 
 ## Why this tutorial? 
