@@ -42,8 +42,8 @@ Worksheets:
 2. Thinking about overall fairness and equity when building Data Science/ML/AI systems
 3. Exploring different views around ML and fairness
 4. Defining the desired societal goals of the system (from the perspective of each stakeholder group)
- - overview
- - breakout activity
+   - overview
+   - breakout activity
 5. Understanding the cost and benefits of interventions  (from the perspective of each stakeholder group)
    - overview
    - breakout activity
