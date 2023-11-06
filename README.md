@@ -1,7 +1,7 @@
 # Fairness Tree Workshop
 
 ## Presenters
-- Lingwei Cheng, Carnegie Mellon University
+- [Lingwei Cheng](https://lwc.netlify.app/), Carnegie Mellon University
 - [Rayid Ghani](http://www.rayidghani.com), Carnegie Mellon University
 - Kit T. Rodolfa, RegLab, Stanford University
 
