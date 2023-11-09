@@ -4,7 +4,7 @@
 ## Presenters
 - [Lingwei Cheng](https://lwc.netlify.app/), Carnegie Mellon University
 - [Rayid Ghani](http://www.rayidghani.com), Carnegie Mellon University
-- Kit T. Rodolfa, RegLab, Stanford University
+- [Kit Rodolfa](https://reglab.stanford.edu/team-members/kit-rodolfa/), RegLab, Stanford University
 
 ## Why this workshop? 
 
@@ -16,7 +16,7 @@ The typical process used today in eliciting fairness goals when designing ML sys
 Participants will leave the workshop with enhanced proficiency in eliciting, understanding, discussing, and managing conflicting fairness objectives which they can then use to design better and more equitable ML systems.
 
 ## What will we cover? 
-In this interactive workshop, we will start with an overview of AI fairness and the AI fairness pipeline, survey the landscape of existing AI fairness tools, and show where FT fits in. To illustrate how FT works, we will present a series pf case studies where AI is being considered as a tool to allocate resources. Participants will work through the case studies role-playing each group of stakeholders and determine fairness needs from the perspective of each stakeholder, assess the cost and benefit of the interventions available, and finally come up with appropriate fairness metrics for the task at hand. The key points for discussions are shown in the worksheets below. Participants may arrive at different fairness requirements based on their priorities, and we will show how FT can help them identify the underlying sources of conflicting priorities, which may result in different fairness needs for different stakeholder groups. The discussions will conclude with how to make sense of and operationalize these requirements.
+In this interactive workshop, we will start with an overview of AI fairness and the AI fairness pipeline, survey the landscape of existing AI fairness tools, and show where FT fits in. To illustrate how FT works, we will present a series of case studies where AI is being considered as a tool to allocate resources. Participants will work through the case studies role-playing each group of stakeholders and determine fairness needs from the perspective of each stakeholder, assess the cost and benefit of the interventions available, and finally come up with appropriate fairness metrics for the task at hand. The key points for discussions are shown in the worksheets below. Participants may arrive at different fairness requirements based on their priorities, and we will show how FT can help them identify the underlying sources of conflicting priorities, which may result in different fairness needs for different stakeholder groups. The discussions will conclude with how to make sense of and operationalize these requirements.
 
 ### Pre-requisites
 
