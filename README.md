@@ -1,5 +1,5 @@
 # Fairness Tree Workshop - Presented at APPAM  (Association for Public Policy Management and Analysis) 2023
-### A Guide to Determining Fairness Goals for AI Systems through Facilitated Multistakeholder Siscussions
+### A Guide to Determining Fairness Goals for AI Systems through Facilitated Multistakeholder Discussions
 
 ## Presenters
 - [Lingwei Cheng](https://lwc.netlify.app/), Carnegie Mellon University
