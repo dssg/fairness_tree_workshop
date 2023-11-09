@@ -31,23 +31,23 @@ In this interactive workshop, we will start with an overview of AI fairness and 
 Worksheets: 
 
 - Exercise 1: [Determining the societal and policy goals](https://docs.google.com/document/d/1GpJKTEFi4Qp098djT5_RcN5UYD3AfIg9m664pO6qxjQ/edit?usp=sharing)
-- Exercise 2: [Cost & Benefit Analysis of Intervention](https://docs.google.com/document/d/1zhD6Dvkv3enQGYKQ9zspEmkDow08JCPCcaMw8C7wxlA/edit?usp=sharing)
-- Exercise 3: [Fairness Tree](https://docs.google.com/document/d/1lqd8_yvjjh6mEPakHDPjx2Jrn7wvLpLdujDizqqtM24/edit?usp=sharing)
+- Exercise 2: [Cost & Benefit Analysis of the Intervention](https://docs.google.com/document/d/1zhD6Dvkv3enQGYKQ9zspEmkDow08JCPCcaMw8C7wxlA/edit?usp=sharing)
+- Exercise 3: [Determining Fairness Metrics to Prioritize ](https://docs.google.com/document/d/1lqd8_yvjjh6mEPakHDPjx2Jrn7wvLpLdujDizqqtM24/edit?usp=sharing)
   
 1. Motivating Case Studies
-   - Case Study 1: Child Welfare: Determining whether to open an investigation for a reported child maltreatment case based on predicted risk of maltreatment
-   - Case Study 2: Criminal Justice: Determining whether to grant bail based on predicted risk 
-   - Case Study 3: Housing: Prioritizing rental assistance allocation  based on predicted risk of future homelessness 
+   - [Case Study 1](https://docs.google.com/document/d/1rnstbzKDBfrpj4vTV1gJJTarqZ5ltcvxvHdFnZuYKik/edit#heading=h.2v0rv9rx3b4u): Child Welfare: Determining whether to open an investigation for a reported child maltreatment case based on predicted risk of maltreatment
+   - [Case Study 2](https://): Criminal Justice: Determining whether to grant bail based on predicted risk 
+   - [Case Study 3](https://docs.google.com/document/d/1mdrcdwTQU9afV3cCESuJUQpT98-iyeOOszb4W_aEAQk/edit#heading=h.4oe3nkjkjaps): Housing: Prioritizing rental assistance allocation  based on predicted risk of future homelessness 
 2. Understanding overall fairness and equity goals when building Data Science/ML/AI systems
 3. Exploring different views around ML and fairness
 4. Defining the desired societal goals of the system (from the perspective of each stakeholder group)
    - overview
-   - breakout activity
+   - breakout activity: [Cost & Benefit Analysis of Intervention](https://docs.google.com/document/d/1zhD6Dvkv3enQGYKQ9zspEmkDow08JCPCcaMw8C7wxlA/edit?usp=sharing)
 5. Understanding the cost and benefits of interventions  (from the perspective of each stakeholder group)
    - overview
-   - breakout activity
+   - breakout activity - [Cost & Benefit Analysis of the Intervention](https://docs.google.com/document/d/1zhD6Dvkv3enQGYKQ9zspEmkDow08JCPCcaMw8C7wxlA/edit?usp=sharing)
 6. Applying the Fairness Tree Framework
    - overview
-   - breakout activity
-7. Discussion around Caveats
+   - breakout activity - [Determining Fairness Metrics to Prioritize](https://docs.google.com/document/d/1lqd8_yvjjh6mEPakHDPjx2Jrn7wvLpLdujDizqqtM24/edit?usp=sharing)
+7. Discussion
 8. Wrap-up
