@@ -36,8 +36,9 @@ Worksheets:
   
 1. Motivating Case Studies
    - [Case Study 1](https://docs.google.com/document/d/1rnstbzKDBfrpj4vTV1gJJTarqZ5ltcvxvHdFnZuYKik/edit#heading=h.2v0rv9rx3b4u): Child Welfare: Determining whether to open an investigation for a reported child maltreatment case based on predicted risk of maltreatment
-   - [Case Study 2](https://): Criminal Justice: Determining whether to grant bail based on predicted risk 
-   - [Case Study 3](https://docs.google.com/document/d/1mdrcdwTQU9afV3cCESuJUQpT98-iyeOOszb4W_aEAQk/edit#heading=h.4oe3nkjkjaps): Housing: Prioritizing rental assistance allocation  based on predicted risk of future homelessness 
+   - [Case Study 2](https://docs.google.com/document/d/1mdrcdwTQU9afV3cCESuJUQpT98-iyeOOszb4W_aEAQk/edit#heading=h.4oe3nkjkjaps): Housing: Prioritizing rental assistance allocation  based on predicted risk of future homelessness
+   - [Case Study 3](https://docs.google.com/document/d/1ye-T-CpLLAPza9oGaVSTdk1rScO409Ts5r9HIYMKJjc/edit) Tax/Fraud Audits: Determining which tax returns to prioritize to audit based on risk of fraud/abuse/error 
+
 2. Understanding overall fairness and equity goals when building Data Science/ML/AI systems
 3. Exploring different views around ML and fairness
 4. Defining the desired societal goals of the system (from the perspective of each stakeholder group)
