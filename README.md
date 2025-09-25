@@ -28,6 +28,8 @@ In this interactive workshop, we will start with an overview of AI fairness and 
 
 [Fairness Tree (FT)](https://lw334.github.io/fairness_tree/)
 
+![Fairness Tree](fairnessfultree.png?raw=true "Fairness Tree")
+
 Worksheets: 
 
 - Exercise 1: [Determining the societal and policy goals](https://docs.google.com/document/d/1GpJKTEFi4Qp098djT5_RcN5UYD3AfIg9m664pO6qxjQ/edit?usp=sharing)
