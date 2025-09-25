@@ -30,7 +30,7 @@ In this interactive workshop, we will start with an overview of AI fairness and 
 
 ![Fairness Tree](Fairness-Full-Tree.png?raw=true "Fairness Tree")
 
-![Fairness Tree](FFairness-Short-Tree.png?raw=true "Fairness Tree")
+![Fairness Tree](Fairness-Short-Tree.png?raw=true "Fairness Tree")
 
 Worksheets: 
 
